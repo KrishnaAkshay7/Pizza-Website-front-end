@@ -1,0 +1,1 @@
+Static web page for an online pizzeria featuring a simple interface with sections for Home, Menu, Contact, and Build Your Own Pizza. Customize pizza options including size (Small), crust (Thin Crust), and toppings (Pepperoni, Mushrooms, Onions, Sausage, Bacon, Extra Cheese, Black Olives, Green Peppers). Includes 'Add to Cart' functionality."
